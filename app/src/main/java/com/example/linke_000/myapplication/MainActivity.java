@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+// MainActivity
 public class MainActivity extends AppCompatActivity {
 
     @Override

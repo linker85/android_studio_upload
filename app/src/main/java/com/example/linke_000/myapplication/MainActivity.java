@@ -12,6 +12,7 @@ import android.widget.Toast;
 // MainActivity
 public class MainActivity extends AppCompatActivity {
 
+    // Part of cycle life of an activity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
